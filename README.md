@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Ben 👋
 
-<!--
-**BenFed23/BenFed23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Computer Science undergraduate student passionate about software engineering, core algorithms, and building efficient, clean-code solutions. 
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Tools
+* **Languages:** C++, C#, Python
+* **Version Control:** Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+* **Bulls and Cows Game & Solver (Python):** An interactive game featuring an automated solver based on Knuth's five-guess algorithm.
+* **Console-Based Interactive Engine (C++):** A structured, object-oriented game engine emphasizing custom screen management and low-level memory optimization.
+
+---
+
+### 📬 Connect with me
+* **LinkedIn:** [Ben Fediuck](https://www.linkedin.com/in/ben-fediuck-84b94b336/)
